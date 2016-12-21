@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hbDDD.iml" filepath="$PROJECT_DIR$/hbDDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbDDD-model/hbDDD-model.iml" filepath="$PROJECT_DIR$/hbDDD-model/hbDDD-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbDDD-parent-master/hbDDD-parent-master.iml" filepath="$PROJECT_DIR$/hbDDD-parent-master/hbDDD-parent-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbDDD-web/hbDDD-web.iml" filepath="$PROJECT_DIR$/hbDDD-web/hbDDD-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbDDD-webapi/hbDDD-webapi.iml" filepath="$PROJECT_DIR$/hbDDD-webapi/hbDDD-webapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yhbLibrary/yhbLibrary.iml" filepath="$PROJECT_DIR$/yhbLibrary/yhbLibrary.iml" />
+    </modules>
+  </component>
+</project>

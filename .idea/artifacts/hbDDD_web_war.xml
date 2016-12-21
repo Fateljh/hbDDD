@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hbDDD-web:war">
+    <output-path>$PROJECT_DIR$/hbDDD-web/target</output-path>
+    <root id="archive" name="hbDDD-web.war">
+      <element id="artifact" artifact-name="hbDDD-web:war exploded" />
+    </root>
+  </artifact>
+</component>
